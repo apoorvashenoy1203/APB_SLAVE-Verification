@@ -1,0 +1,140 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/fetools/work_area/frontend/Batch_10/apoorva/apb_slave
+T_opt
+!s110 1764997007
+V2R_LW`4K^64hZ5TUeWKjj2
+Z1 04 3 4 work top fast 0
+=1-6805caf5892e-6933b78e-d1333-231dd
+o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OE;O;10.6c;65
+T_opt1
+!s110 1764847047
+Vcff5Yn19oGG7c6z9k_`<Z3
+R1
+=1-6805caf5892e-69316dc7-4900-34933
+o-quiet -auto_acc_if_foreign -work work +acc=npr
+R2
+n@_opt1
+R3
+R0
+Yapb_inf
+Z4 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z5 !s110 1764997001
+!i10b 1
+!s100 VJnV4<a9n>V?AKW76BVM]0
+I>mXH@TAj73[;U:V93iof92
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 !s105 top_sv_unit
+S1
+R0
+w1764845169
+8apb_interface.sv
+Fapb_interface.sv
+L0 2
+Z8 OE;L;10.6c;65
+r1
+!s85 0
+31
+Z9 !s108 1764997001.000000
+Z10 !s107 design.sv|apb_interface.sv|apb_test.sv|apb_env.sv|apb_subscriber.sv|apb_scoreboard.sv|apb_agent.sv|apb_monitor.sv|apb_driver.sv|apb_sequencer.sv|apb_sequence.sv|defines.sv|apb_seq_item.sv|/tools/mentor/questasim_10.6c/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_deprecated_defines.svh|/tools/mentor/questasim_10.6c/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_reg_defines.svh|/tools/mentor/questasim_10.6c/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_callback_defines.svh|/tools/mentor/questasim_10.6c/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_sequence_defines.svh|/tools/mentor/questasim_10.6c/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/tlm1/uvm_tlm_imps.svh|/tools/mentor/questasim_10.6c/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_tlm_defines.svh|/tools/mentor/questasim_10.6c/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_printer_defines.svh|/tools/mentor/questasim_10.6c/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_object_defines.svh|/tools/mentor/questasim_10.6c/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_phase_defines.svh|/tools/mentor/questasim_10.6c/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_message_defines.svh|/tools/mentor/questasim_10.6c/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_version_defines.svh|/tools/mentor/questasim_10.6c/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/uvm_macros.svh|top.sv|apb_pkg.sv|
+Z11 !s90 -sv|apb_pkg.sv|top.sv|
+!i113 0
+Z12 o-sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+Xapb_pkg
+!s115 apb_inf
+R4
+Z13 DXx6 mtiUvm 7 uvm_pkg 0 22 oMKUklN?>LE6@MJe7=2><1
+R5
+!i10b 1
+!s100 3JzflRoe89l3hG>cYNJgD2
+IVBWVhTz_fKbBI8N`be4@?1
+VVBWVhTz_fKbBI8N`be4@?1
+S1
+R0
+w1764996870
+8apb_pkg.sv
+Fapb_pkg.sv
+Fapb_seq_item.sv
+Fdefines.sv
+F/tools/mentor/questasim_10.6c/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/uvm_macros.svh
+Fapb_sequence.sv
+Fapb_sequencer.sv
+Fapb_driver.sv
+Fapb_monitor.sv
+Fapb_agent.sv
+Fapb_scoreboard.sv
+Fapb_subscriber.sv
+Fapb_env.sv
+Fapb_test.sv
+L0 2
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R2
+vapb_slave
+R4
+R5
+!i10b 1
+!s100 8CNf6E4ilHWQ:JQ]VdZQ93
+I_eOQjP4EzDHed^21MjGY71
+R6
+R7
+S1
+R0
+w1764752354
+8design.sv
+Fdesign.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R2
+vtop
+R4
+R13
+DXx4 work 7 apb_pkg 0 22 VBWVhTz_fKbBI8N`be4@?1
+R5
+!i10b 1
+!s100 Ehh8iBg`Q@O3313>a[FfR1
+Igm02MX?kV8V9M18lK[YTT1
+R6
+R7
+S1
+R0
+w1764996994
+8top.sv
+Ftop.sv
+L0 6
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R2

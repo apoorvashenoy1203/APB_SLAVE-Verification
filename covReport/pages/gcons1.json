@@ -1,0 +1,5 @@
+var g_db_data = [
+{dummy:0},
+{name:'act_mon_cov',f:1,type:6,id:998,tb:'23',h:'23',m:'0',hp:'100.00%',cov:['100.00%','G'],g:'100.00%',gp:['100.00%','G'],opts:[[],['merge_instance','auto(true)']],hdlPath:'/apb_pkg/apb_subscriber',parent:'997'},
+{name:'pas_mon_cov',f:1,type:6,id:1003,tb:'7',h:'6',m:'1',hp:'85.71%',cov:['83.33%','Y'],g:'100.00%',gp:['83.33%','Y'],opts:[[],['merge_instance','auto(true)']],hdlPath:'/apb_pkg/apb_subscriber',parent:'997'}];
+processConsCovergroupsData(g_db_data);
