@@ -1,5 +1,0 @@
-apb_interface.sv
-apb_pkg.sv
-apb_subscriber.sv
-design.sv
-top.sv

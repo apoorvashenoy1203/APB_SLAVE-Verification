@@ -1,6 +1,0 @@
-var g_data = {'dummy':null,
-'1':'apb_interface.sv',
-'5':'apb_pkg.sv',
-'4':'apb_subscriber.sv',
-'3':'design.sv',
-'2':'top.sv'};
